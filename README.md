@@ -5,7 +5,7 @@ This project analyzes natural disasters, and their frequencies, using public dat
 
 ### Setup
 
-#### Clone the repository onto your local machine.
+#### Clone the repository.
 1. Lauch the command prompt.
 2. Navigate to a convenient location, where you want to save the repo.
 3. Clone the repo.
